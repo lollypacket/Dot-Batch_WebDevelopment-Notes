@@ -2,6 +2,12 @@
 
 // #1
 
+//Javascript variables
+//let const var
+
+let b=10;
+console.log(b);
+
 console.log("var");
 var a = 10;
 console.log(a);
